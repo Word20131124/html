@@ -1,0 +1,25 @@
+.img{
+    width: 200px;
+    height: 200px;
+}
+.h1{
+    color: rgb(9, 9, 151);
+}
+.p{
+    font-size: 20px;
+    color: gray;
+    opacity: 80%;
+}
+.img1{
+    width: 40px;
+    height: 40px;
+    background: none;
+}
+.div{
+    background: rgb(255, 68, 0);
+    width: 450px;
+    height: 100px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+}
